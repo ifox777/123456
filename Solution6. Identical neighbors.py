@@ -5,3 +5,4 @@ for i in range(0, len(s)):
         counter += 1
 
 print(counter)
+#11111111111111111111111111111111111111
